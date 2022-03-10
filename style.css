@@ -111,11 +111,15 @@ body {
   }
 
 .BeforeScroll {
+  width: 100px:
+  height: 100px;
   display: none;
 }
 
 
 /*Use this class when you want your content to be shown after some scroll*/
 .AfterScroll {
+  width: 100px:
+  height: 100px;
   display: block;
 }
